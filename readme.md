@@ -16,7 +16,7 @@ The guide for this workshop follows the structure of the lesson and can be used 
 Multiple versions of the same content:
 + [Webpage](https://hsudml.github.io/snapshotsStorytelling/guide) (screen reader friendly)
 + [Printable booklet](https://hsudml.github.io/snapshotsStorytelling/assets/SnapshotsStorytelling.pdf) (not accessible)
-+ [Digital version]() (also not accessible)
++ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vSm474eY4J2dS2boilEF7Wa4PYPkdGXZU5U9C88nJ0RQpTvyxF1kIGcN-DdsFp0PNiCBsGG3aympPMV/pub?start=false&loop=false&delayms=3000) (also not accessible)
 
 ## Activities
 There are no defined activies for this workshop, but facilitators should demonstrate the basic strategies included in the guide by showing videos or video clips. The current [Student Snapshots playlist](https://www.youtube.com/playlist?list=PLe7DUUoET6mUN1jP4pO6uKW9uyubSkQhC) was used for the original workshop offerings.
