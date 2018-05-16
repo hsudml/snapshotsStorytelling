@@ -26,4 +26,5 @@ There are no defined activies for this workshop, but facilitators should demonst
 ---
 ## Other Links
 [View all of the SkillShops repositories](https://hsudml.github.io/skillshops)
+
 For more info, questions, or suggestions, email dml@humboldt.edu
