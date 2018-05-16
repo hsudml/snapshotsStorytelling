@@ -1,3 +1,5 @@
+![Title banner](assets/images/snapshotsStorytellingBanner.png)
+
 # Digital Storytelling & Project Planning 
 
 ## HSU Student Snapshots
