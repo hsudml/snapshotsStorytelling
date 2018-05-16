@@ -3,6 +3,8 @@
 ## HSU Student Snapshots
 “Student Snapshots” is a collection of video stories from Humboldt State University (HSU) students in their own voice. These stories are about the experiences of students as they live in Humboldt County and explore both the county and the HSU campus. Student Snapshots are quick 1-minute stories that share your unique experience from your own vantage point. Take a look at the [HSU Student Snapshots YouTube channel](https://www.youtube.com/playlist?list=PLe7DUUoET6mUN1jP4pO6uKW9uyubSkQhC) to see what people have already shared and then add your story.
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/V0VFkAwyfTU?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 This guide will help you with planning and preparing your story. Visit the accompanying online guide for more links and info: [libguides.humboldt.edu/snapshots/learn](libguides.humboldt.edu/snapshots/learn).
 
 ## Digital Media Lab Quick Guide
