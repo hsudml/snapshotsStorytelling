@@ -15,7 +15,7 @@ The guide for this workshop follows the structure of the lesson and can be used 
 
 Multiple versions of the same content:
 + [Webpage](https://hsudml.github.io/snapshotsStorytelling/guide) (screen reader friendly)
-+ [Printable booklet]() (not accessible)
++ [Printable booklet](https://hsudml.github.io/snapshotsStorytelling/assets/SnapshotsStorytelling.pdf) (not accessible)
 + [Digital version]() (also not accessible)
 
 ## Activities
